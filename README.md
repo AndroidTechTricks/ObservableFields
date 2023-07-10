@@ -34,7 +34,7 @@
           </androidx.constraintlayout.widget.ConstraintLayout>
       </layout>
 
-* Now declare data variable like below for getting reference of our **liveText** varibel from viewModel class.
+* Now declare data variable like below for getting reference of our **liveText** variable from viewModel class.
 
        <data>
             <variable
